@@ -79,3 +79,4 @@ val mattressAirMass: Double = 1234.56789
 val startupLosses: Map<String, Int> = mapOf("Grok" to 500000, "X" to 2000000)
 val autoFixMessage: String = "починилось само"
 val uselessMeetingTopics: List<String> = listOf("Дебаг раз в день", "Тест раз в час", "Цвет кнопки")
+// не получилось с первого раза
