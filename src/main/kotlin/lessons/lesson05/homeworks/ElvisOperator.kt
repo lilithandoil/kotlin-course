@@ -1,4 +1,4 @@
-package org.example.lesson05.homeworks
+package org.example.lessons.lesson05.homeworks
 
 fun main() {
     // Задача 1
